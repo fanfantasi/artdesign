@@ -1,0 +1,82 @@
+{
+    "status":true,
+    "result": [
+        {
+            "id": 1,
+            "professionalid": 1,
+            "professional":"Arispambudi Studio Arsitek (ASA)",
+            "logo":"https://www.archify.com/files/professional/s/6ww82y4j1641453238.jpg",
+            "title":"Mr Wawan House",
+            "desc":"Desain pengembangan rumah tinggal di Bekasi",
+            "detailProject":{
+                "type": "Single Dwellings, Residential Estate",
+                "size": "300 Sqm",
+                "design": "Minimalist",
+                "architect" : "Aris Pambudi",
+                "location": "Bekasi",
+                "status": "Concept"
+            },
+            "imageProject":{
+                "thumbnail":"https://www.archify.com/files/professional/projects/s/ywm9d44xkw.jpg",
+                "image":[
+                    "https://www.archify.com/files/professional/projects/s/ywm9d44xkw.jpg",
+                    "https://www.archify.com/files/professional/projects/s/2qdabyxvkg.jpg",
+                    "https://www.archify.com/files/professional/projects/s/c26pxm87uu.jpg"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "professionalid": 2,
+            "professional":"Artasalaam Group Indonesia",
+            "logo":"https://www.archify.com/files/professional/s/5fw4rtvp1532937843.jpg",
+            "title":"SHARE PROJECT  R-House, Min.Tropis H.",
+            "desc":"Di Design guna memenuhi kebutuhan keluarga, kami melakukan perombakan ke arah samping guna memperluas area, Area interior di konsep terbuka dengan terdapat taman kering didalam",
+            "detailProject":{
+                "type": "Single Dwellings, Residential Estate",
+                "size": "200 Sqm",
+                "design": "Contemporary",
+                "architect" : "Greenchitect",
+                "location": "Tangerang Selatan",
+                "status": "Concept"
+            },
+            "imageProject":{
+                "thumbnail":"https://www.archify.com/files/professional/projects/xl/cover_zrjycwzej3wm.jpg",
+                "image":[
+                    "https://www.archify.com/files/professional/projects/s/vdbvwjbjjd.jpg",
+                    "https://www.archify.com/files/professional/projects/s/sshqcsce57.jpg",
+                    "https://www.archify.com/files/professional/projects/s/xfsf547gga.jpg",
+                    "https://www.archify.com/files/professional/projects/s/5z5ve9xkqe.jpg",
+                    "https://www.archify.com/files/professional/projects/s/qexc3rz63p.jpg"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "professionalid": 3,
+            "professional":"Indrajaya Pinia",
+            "logo":"https://www.archify.com/files/professional/s/ugvsas6h1563207889.jpg",
+            "title":"Villa Zen",
+            "desc":"The Client required a villa for large family gatherings, with a yoga shala, outdoor living, a big sunken, and a swimming pool. This villa is located in Pejeng Kawan, Tampak Siring, Bali, in an area surrounded by rice fields and jungle close to the central area of ​​Ubud. Standing on an area of ​​900 m2, the atmosphere is relatively calm, even though it is close to the busy route to the center of Ubud. Indrajaya designed the villa on a large east‐west‐oriented site facing the jungle on the eastern side. Villa Zen has a character between architecture and Balinese traditional-modern space. The materials used are all-natural, such as Kerobokan stone, Ulin wood, and Palimanan Stone. The seamlessly integrated indoor-outdoor lifestyle is also a response to Bali's climate. The existence of Villa Zen as a place to stay makes a positive contribution to Bali, in general, by supporting the tourism sector as one of its services.",
+            "detailProject":{
+                "type": "Single Dwellings, Residential Estate",
+                "size": "285 Sqm",
+                "design": "Minimalist, Modern",
+                "architect" : "I Gede Indrajaya Pinia",
+                "location": "Bali",
+                "status": "Completed"
+            },
+            "imageProject":{
+                "thumbnail":"https://www.archify.com/files/professional/projects/xl/cover_fsb3veypa4v6.jpg",
+                "image":[
+                    "https://www.archify.com/files/professional/projects/s/ndvh2nbj54.jpg",
+                    "https://www.archify.com/files/professional/projects/s/8u3y6ukc7x.jpg",
+                    "https://www.archify.com/files/professional/projects/s/tveru46tzv.jpg",
+                    "https://www.archify.com/files/professional/projects/s/8yvpsuhhsv.jpg",
+                    "https://www.archify.com/files/professional/projects/s/u8rbsn7dca.jpg"
+                ]
+            }
+        }
+    ],
+    "message":"Success Show Data"
+}

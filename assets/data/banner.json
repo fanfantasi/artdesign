@@ -1,0 +1,26 @@
+{
+    "status":true,
+    "result": [
+        {
+            "id":1,
+            "title":"Request Online Meeting",
+            "subtitle":"Quickly and easily request meetings with product suppliers",
+            "type": 1,
+            "button":"Find Suppliers Now",
+            "link_id": "all",
+            "desc":"Noru by K-Thengono Design Studio – Visit any brand page, hit the Meeting Request button and follow the prompts to instantly request your meeting",
+            "image": "https://image.archify.com/web_landing_carousel/xl/wgxt6q3f.jpg"
+        },
+        {
+            "id":2,
+            "title":"Practice of the week",
+            "subtitle":"",
+            "type": 2,
+            "button":"View Professional",
+            "link_id": "1",
+            "desc":"Talaga Sampireun by Seniman Ruang",
+            "image": "https://image.archify.com/web_landing_carousel/xl/fh27jjrh.jpg"
+        }
+    ],
+    "message":"Success Show Data"
+}

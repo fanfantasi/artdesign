@@ -1,0 +1,20 @@
+{
+    "status":true,
+    "result": [
+        {
+            "id":1,
+            "title":"Product Focus with Onduline",
+            "date": "2022-08-17",
+            "desc":"<p>Yuk ikutan di acara Archify Product Focus bersama Onduline!</p><p>Hari/tanggal: Kamis, 11 Agustus 2022<br>Waktu: 10.00 - 11.00 WIB<br>Topik: Green Roofing System for Tropical Coountry<br>REGISTRASI: https://bit.ly/apfwithonduline</p><p>Dapatkan kesempatan untuk memenangkan (2) Smart Band dan (3) E-money senilai masing-masing 100k dari Onduline, beserta OVO credit senilai 100k untuk (5) peserta yang beruntung lainnya dari Archify.</p><p></p><p></p><p><strong><em>About Onduline:&nbsp;</em></strong></p><p><em>Onduline SA adalah produsen atap ringan yang terbuat dari bitumen, serat selulosa dan organik, resin dan mineral-mineral lainnya yang ramah lingkungan, serbaguna dan hemat biaya.</em></p><p></p>",
+            "image": "https://image.archify.com/events/l/k22jgsbj.jpg"
+        },
+        {
+            "id":2,
+            "title":"Update Dinner Jakarta",
+            "date": "2022-08-17",
+            "desc":"<p>Come and Join! A dinner gathering initiated by Archify located in Medan where numbers of emerging architecture &amp; interior design firms will be invited along with their team members.&nbsp;&nbsp;</p><p></p><p></p><p></p><p><em><strong>About Clayxible:&nbsp;</strong></em></p><p><em>Clayxible is a new revolutionary building material after Ceramic, Porcelain and Granite. It adopts natural modified mineral powder as aggregates green plant fiber and other natural polymers as reinforced materials and is formed through light enzyme irradiation reaction.</em></p><p></p>",
+            "image": "https://image.archify.com/events/l/kc445une.jpg"
+        }
+    ],
+    "message":"Success Show Data"
+}
