@@ -5,13 +5,6 @@ Created Apps With Flutter 2.10.3
 
 Used state management <b>getx</b> and <b>clean architecture</b>
 
-# Fitur dari Aplikasi 
-<b>1. Items By Category</b><br>
-<b>2. Recommendation By Rattings</b><br>
-<b>3. Favorite Items (Local Data)</b><br>
-<b>4. Multi Languages</b><br>
-<b>5. Theme Dark Mode and Light Mode</b><br>
-
 # View Apps
 ### 🙅 View Apps ArtDesign With Flutter
 <img src="https://github.com/fanfantasi/artdesign/blob/Master/assets/ss/ss.png">
